@@ -1,5 +1,4 @@
 {
-  description = "Dev environment na Chaloupkovo PVI ulohy";
 
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05";
 
