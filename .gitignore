@@ -1,3 +1,5 @@
 .venv
 .direnv
 .DS_Store
+cv09/data/tests
+silhan.py
